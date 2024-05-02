@@ -57,7 +57,7 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: 'SIGMA-MD;;;' + b64data });
 
                let SIGMA_MD_TEXT = `
-*_Pair Code By Maher Zubair_*
+*_THANK U FOR SCANNING_*
 *_Made With 🤍_*
 
 _Don't Forget To Give Star To My Repo_`
